@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: qubaitian-flask-starter-319
+package: qubaitian/flask-starter-319
